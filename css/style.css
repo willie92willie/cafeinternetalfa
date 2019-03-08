@@ -1,0 +1,38 @@
+body {
+background:url('img/ci.png') -25px -50px;
+position:fixed ;
+top:0;
+width:100%;
+font-family: Arial, serif;
+z-index:0;
+  height:100%;
+  background-size: calc(100% + 50px);
+
+}
+
+
+.nono{
+  font-size: 85px;
+}
+
+
+
+.rodape
+{
+
+  
+    right: 0;
+    bottom: 0;
+    left: 0;
+ 
+    font-weight: bold;
+  
+  
+  font-size: 250px;
+  -webkit-text-stroke: 3px yellow;
+}
+
+
+.mi-imagen-abajo-derecha{
+
+}
